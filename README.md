@@ -5,4 +5,4 @@ Material do **Curso de Git e GitHub**, disponível gratuitamente no canal do *Yo
 Estou __*aprendendo*__
 
 - [X] Teste 1
-- [] Teste
+- [ ] Teste
