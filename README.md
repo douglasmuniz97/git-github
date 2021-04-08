@@ -8,4 +8,4 @@ ID | Nome | Nota
 ---|---|---
 1 | Douglas | 10,0
 
-'document.getElementById()'
+`document.getElementById()`
