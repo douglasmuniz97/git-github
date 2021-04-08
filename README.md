@@ -2,4 +2,4 @@
 Material do **Curso de Git e GitHub**, disponível gratuitamente no canal do *YouTube*.
 ***
 
-Estou aprendendo....
+Estou _*aprendendo*_
