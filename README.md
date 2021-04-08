@@ -7,3 +7,5 @@ Estou __*aprendendo*__
 ID | Nome | Nota
 ---|---|---
 1 | Douglas | 10,0
+
+'document.getElementById()'
